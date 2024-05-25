@@ -8,8 +8,14 @@
 ## Classes
 
 - transação
+    - descrição(Ex: salário,mesada,bonus, 13°)
+    - valor
 - categoria
+    - nome
 
 
 ## Funcionalidades
 
+- Cadastrar transações(despesas / receitas)
+- Cadastrar categorias
+- Calcular saldo total
